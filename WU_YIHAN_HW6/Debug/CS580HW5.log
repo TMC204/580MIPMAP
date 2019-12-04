@@ -1,0 +1,50 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rend.cpp
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(160): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(161): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(163): warning C4305: '=': truncation from 'int' to 'float'
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(607): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(611): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(613): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(755): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(756): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(757): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(758): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(765): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(770): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(771): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(772): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(776): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(777): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(778): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(781): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(782): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(783): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(788): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(789): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(795): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(796): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(797): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(837): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(838): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(839): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(840): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(847): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(852): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(853): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(854): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(858): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(859): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(860): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(864): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(865): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(870): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(871): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(877): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(878): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\40523\desktop\d\wu_yihan_hw6\rend.cpp(879): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CS580HW5.vcxproj -> C:\Users\40523\Desktop\d\WU_YIHAN_HW6\.\Debug\CS580HW5.exe
